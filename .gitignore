@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+*.log
+recover/__pycache__
+recover/media/
+recover/database.sqlite3
+recover/Secret@Name$Session.session
+recover/*.log
